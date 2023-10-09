@@ -1,6 +1,6 @@
 import React from "react";
-import Hero from "./Hero";
-import Loading from "./Loading";
+import Hero from "../components/Hero";
+import Loading from "../components/Loading";
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 

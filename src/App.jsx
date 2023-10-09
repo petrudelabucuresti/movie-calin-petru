@@ -4,10 +4,10 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Search from "./components/Search";
-import Movie from "./components/Movie";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Search from "./pages/Search";
+import Movie from "./pages/Movie";
 import NotFound from "./components/NotFound";
 import Footer from "./components/Footer";
 
